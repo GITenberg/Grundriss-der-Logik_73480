@@ -1,0 +1,31 @@
+_repo: Grundriss-der-Logik_73480
+_version: 0.0.1
+alternative_title: Grundriss der Logik
+creator:
+  author:
+    agent_name: Grau, Kurt Joachim
+    birthdate: 1891
+    deathdate: 1947
+    gutenberg_agent_id: '57093'
+    url: http://www.gutenberg.org/2009/agents/57093
+description: ''
+gutenberg_issued: '2024-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73480'
+  lccn: '43045642'
+language: de
+pgterms:marc905: 20200209001753grau
+pgterms:marc906: '1918'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig und Berlin :$bVerlag von B. G. Teubner, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic'
+- !lcc 'BC'
+- GITenberg
+title: Grundriß der Logik
+url: http://www.gutenberg.org/ebooks/73480
